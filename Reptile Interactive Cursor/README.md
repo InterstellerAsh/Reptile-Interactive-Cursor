@@ -3,9 +3,9 @@
 
   <p align="center">
     <br />
-    <img alt="Stars" src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/Reptile-Interactive-Cursor?color=00ff00&style=for-the-badge" />
-    <img alt="Forks" src="https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/Reptile-Interactive-Cursor?color=00ff00&style=for-the-badge" />
-    <img alt="License" src="https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/Reptile-Interactive-Cursor?color=00ff00&style=for-the-badge" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/InterstellerAsh/Reptile-Interactive-Cursor?color=00ff00&style=for-the-badge" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/InterstellerAsh/Reptile-Interactive-Cursor?color=00ff00&style=for-the-badge" />
+    <img alt="License" src="https://img.shields.io/github/license/InterstellerAsh/Reptile-Interactive-Cursor?color=00ff00&style=for-the-badge" />
   </p>
   
   <p align="center">
